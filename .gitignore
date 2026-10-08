@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# Models
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Training
+training/checkpoints/
+
+# Data
+data/
+*.pdf
+*.docx
+
+# Archives
+*.zip
+*.rar
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Models
+models/
+
+# Checkpoints
+training/checkpoints/
+
+# PDFs / data
+data/
+*.pdf
+
+# Archives
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
